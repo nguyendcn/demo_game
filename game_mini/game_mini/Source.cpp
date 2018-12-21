@@ -593,7 +593,7 @@ void game::LevelMenu()
 	std::cout << "9." << std::endl;
 	std::cout << "10." << std::endl;
 	std::cout << "11." << std::endl;
-	int y;
+	int y = 0;
 	while (y > 12 || y < 1)
 	{
 		std::cin >> y;
