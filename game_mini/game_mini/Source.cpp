@@ -4,6 +4,8 @@
 #include <ctime>
 #include <vector>
 
+using namespace std;
+
 class game
 {
 private:
